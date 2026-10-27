@@ -13,7 +13,6 @@ int remove_duplicates(int*arr, int n)
     }
     return (int)(w-arr) + 1;
 }
-
 int main(void) 
 {
   int arr[] = {1,1,2,2,3,4,4};
