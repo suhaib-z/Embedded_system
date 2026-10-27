@@ -14,7 +14,6 @@ void move_zeros(int *arr, int n)
         }
     }
 }
-
 int main(void) 
 {
   int arr[] = {0,1,0,3,12};
