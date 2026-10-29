@@ -11,8 +11,8 @@ Programs are grouped by topic. Open a folder to see all programs inside it.
 | [01_basics](./01_basics) | Input/output, variables, operators | 5 |
 | [02_conditions](./02_conditions) | if/else, switch | 5 |
 | [03_loops](./03_loops) | for, while, do-while, patterns | 5 |
-| [04_arrays](./04_arrays) | Arrays and searching/sorting | 0 |
-| [05_strings](./05_strings) | String handling | 0 |
+| [04_arrays](./04_arrays) | Arrays and searching/sorting | 5 |
+| [05_strings](./05_strings) | String handling | 5 |
 | [06_functions](./06_functions) | Functions and recursion | 0 |
 | [07_pointers](./07_pointers) | Pointers and dynamic memory | 0 |
 | [08_structures](./08_structures) | Structures and unions | 0 |
